@@ -1,5 +1,5 @@
 # AGPS
-Annealing Genetic based Preposition Substitution for Text Rubbish Example Generation
+
 # AGPS:  Annealing Genetic based Preposition Substitution for Text Rubbish Example Generation
 
 
